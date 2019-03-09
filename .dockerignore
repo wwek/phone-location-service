@@ -1,0 +1,13 @@
+*.exe
+*.exe~
+*.iso
+.idea
+.glide
+cpu-*.pprof
+mem-*.memprof
+lastupdate.tmp
+swagger*
+phone-location-service*
+*.zip
+docs
+log

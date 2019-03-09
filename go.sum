@@ -1,0 +1,9 @@
+github.com/gogf/gf v1.5.12 h1:uSZ2wYxGB0E9OtJI3h1DGIUV3EfowB9dRfmVOXGTRVE=
+github.com/gogf/gf v1.5.12/go.mod h1:witsoQr7PSjWHK2T1lOa1EKSFIs31QF0T8/+ITaJoho=
+github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/xluohome/phonedata v0.0.0-20190213075915-7e7e3fb634a0 h1:Hp8NbrbyOvIWmj9qLvWlO2JWTHA/fHEVd8OOmf+rmZA=
+github.com/xluohome/phonedata v0.0.0-20190213075915-7e7e3fb634a0/go.mod h1:VhIa8fDLUDGtwnntpGLMQqrONC3J5Ye6FJaWstvmcV4=
+golang.org/x/net v0.0.0-20180724234803-3673e40ba225/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+google.golang.org/appengine v1.4.0 h1:/wp5JvzpHIxhs/dumFmF7BXTf3Z+dd4uXta4kVyO508=
+google.golang.org/appengine v1.4.0/go.mod h1:xpcJRLb0r/rnEns0DIKYYv+WjYCduHsrkT7/EB5XEv4=
