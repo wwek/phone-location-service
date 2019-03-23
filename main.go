@@ -1,11 +1,12 @@
 package main
 
 import (
+	"github.com/gogf/gf/g"
 	_ "phone-location-service/boot"
 	_ "phone-location-service/router"
-	"github.com/gogf/gf/g"
 )
 
 func main() {
+	g.Server().SetServerAgent("nginx")
 	g.Server().Run()
 }

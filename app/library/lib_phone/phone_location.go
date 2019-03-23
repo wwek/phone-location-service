@@ -1,4 +1,4 @@
-package phone
+package lib_phone
 
 import (
 	"errors"
